@@ -21,7 +21,7 @@ By the end of this project, students should be able to:
 
 ### 1. Clone the Project
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rayrsys/Reinforcement-Learning-Project-2026-Crafter.git
 cd Crafter_Project
 start coding ;)
 
