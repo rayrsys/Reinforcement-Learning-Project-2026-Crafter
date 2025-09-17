@@ -21,5 +21,3 @@ env = crafter.Recorder(
 )
 env = GymV21CompatibilityV0(env=env)  
 
-model = stable_baselines3.PPO('CnnPolicy', env, verbose=1)
-model.learn(total_timesteps=args.steps, progress_bar=True)
