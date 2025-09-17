@@ -1,0 +1,17 @@
+
+  - python=3.12
+  - conda
+  - setuptools
+  - pip
+  - wheel
+  - conda-content-trust
+  - conda-libmamba-solver
+  - menuinst
+  - python.app
+  - anaconda-anon-usage
+  - cmake
+  - ninja
+  - torchaudio
+  - torchvision
+  - ipykernel
+
