@@ -16,9 +16,3 @@ It supports **parallel environment rollouts** (for faster training) and is porta
 
 ---
 
-## 🛠 Setup
-
-### 1. Clone the Project
-```bash
-git clone <your-repo-url>
-cd Crafter_Project
